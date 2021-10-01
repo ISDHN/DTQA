@@ -1,0 +1,10 @@
+D:\Chevy\Program\DTQA\DTQA\bin\Debug\DTQA.exe.config
+D:\Chevy\Program\DTQA\DTQA\bin\Debug\DTQA.exe
+D:\Chevy\Program\DTQA\DTQA\bin\Debug\DTQA.pdb
+D:\Chevy\Program\DTQA\DTQA\obj\Debug\DTQA.csproj.AssemblyReference.cache
+D:\Chevy\Program\DTQA\DTQA\obj\Debug\DTQA.Form1.resources
+D:\Chevy\Program\DTQA\DTQA\obj\Debug\DTQA.Properties.Resources.resources
+D:\Chevy\Program\DTQA\DTQA\obj\Debug\DTQA.csproj.GenerateResource.cache
+D:\Chevy\Program\DTQA\DTQA\obj\Debug\DTQA.csproj.CoreCompileInputs.cache
+D:\Chevy\Program\DTQA\DTQA\obj\Debug\DTQA.exe
+D:\Chevy\Program\DTQA\DTQA\obj\Debug\DTQA.pdb

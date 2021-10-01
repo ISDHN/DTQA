@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="gb2312"?>
+<Library>
+	<Question text="选A" answer="0" explanation="" A="答案A" B="答案B" C="答案C" D="答案D"/>
+	<Question text="选D" answer="3" explanation="" A="答案A" B="答案B" C="答案C" D="答案D"/>
+	<Question text="选C" answer="2" explanation="" A="答案A" B="答案B" C="答案C" D="答案D"/>
+	<Question text="选A" answer="0" explanation="" A="答案A" B="答案B" C="答案C" D="答案D"/>
+	<Question text="选B" answer="1" explanation="" A="答案A" B="答案B" C="答案C" D="答案D"/>
+	<Question text="选A" answer="0" explanation="" A="答案A" B="答案B" C="答案C" D="答案D"/>
+	<Question text="选A" answer="0" explanation="" A="答案A" B="答案B" C="答案C" D="答案D"/>
+	<Question text="选D" answer="3" explanation="" A="答案A" B="答案B" C="答案C" D="答案D"/>
+	<Question text="选B" answer="1" explanation="" A="答案A" B="答案B" C="答案C" D="答案D"/>
+	<Question text="选C" answer="2" explanation="" A="答案A" B="答案B" C="答案C" D="答案D"/>
+	<Question text="选C" answer="2" explanation="" A="答案A" B="答案B" C="答案C" D="答案D"/>
+	<Question text="选B" answer="1" explanation="" A="答案A" B="答案B" C="答案C" D="答案D"/>
+	<Question text="选D" answer="3" explanation="" A="答案A" B="答案B" C="答案C" D="答案D"/>
+	<Question text="选A" answer="0" explanation="" A="答案A" B="答案B" C="答案C" D="答案D"/>
+	<Question text="选C" answer="2" explanation="" A="答案A" B="答案B" C="答案C" D="答案D"/>
+</Library>
