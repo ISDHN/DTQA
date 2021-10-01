@@ -15,9 +15,9 @@ namespace DTQA
 	public partial class Form1 : Form
 	{
 		private int questionNumber;
-		private List<Question> questionLibrary= new List<Question>();
-		private int[] questions = new int[10];
-		private int[] answers = new int[10];
+		private readonly List<Question> questionLibrary= new List<Question>();
+		private readonly int[] questions = new int[10];
+		private readonly int[] answers = new int[10];
 		private string school="";
 		private string grade="";
 		private int classnum=1;
@@ -61,6 +61,8 @@ namespace DTQA
 		}
 		private void ChangeQuestion(int number)
 		{
+			Previous.Enabled = !(number == 1);
+			Next.Enabled = !(number == 10);
 			if (number > 10 | number < 1) return;
 			((ToolStripButton)QuestionList.Items[questionNumber]).Checked = false;
 			this.questionNumber = number-1;
@@ -92,6 +94,7 @@ namespace DTQA
 					AnswerD.Checked = true;
 					break;
 			}
+
 		}
 
 		private void Question2_Click(object sender, EventArgs e)
@@ -146,7 +149,7 @@ namespace DTQA
 
 		private void Previous_Click(object sender, EventArgs e)
 		{
-			ChangeQuestion(questionNumber);
+			ChangeQuestion(questionNumber);//questionnumber与传入的参数有1的差距
 		}
 
 		private void Next_Click(object sender, EventArgs e)

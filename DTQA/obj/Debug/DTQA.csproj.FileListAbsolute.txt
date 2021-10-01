@@ -8,3 +8,4 @@ D:\Chevy\Program\DTQA\DTQA\obj\Debug\DTQA.csproj.GenerateResource.cache
 D:\Chevy\Program\DTQA\DTQA\obj\Debug\DTQA.csproj.CoreCompileInputs.cache
 D:\Chevy\Program\DTQA\DTQA\obj\Debug\DTQA.exe
 D:\Chevy\Program\DTQA\DTQA\obj\Debug\DTQA.pdb
+D:\Chevy\Program\DTQA\DTQA\obj\Debug\DTQA.csproj.SuggestedBindingRedirects.cache

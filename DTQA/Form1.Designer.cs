@@ -575,6 +575,7 @@ namespace DTQA
             this.Controls.Add(this.QAPanel);
             this.Controls.Add(this.WelcomePanel);
             this.Controls.Add(this.InfPanel);
+            this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.Name = "Form1";
             this.Text = "双十小测试";
             this.WelcomePanel.ResumeLayout(false);
